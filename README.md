@@ -4,5 +4,8 @@ crack hc22000 files with phone numbers as passwords quickly
 # for the detailed usage:
   
     pnc.sh --help
+# OR
+
+    pnc.bat --help
 
 plus, please give me a free star if you think this project cool.
